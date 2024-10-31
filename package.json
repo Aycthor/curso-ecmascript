@@ -1,0 +1,15 @@
+{
+  "name": "curso-emascript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "ecmascript"
+  ],
+  "author": "ayctor noriega",
+  "license": "MIT",
+  "description": ""
+}
